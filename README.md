@@ -1,5 +1,5 @@
 # WEATHER APP by Arghajit Das
-##LINK-## https://m7-07.github.io/Weather_app/
+## LINK- https://m7-07.github.io/Weather_app/
 
 ## Description:
 This is a weather app with an user friendly and modern UI. It's very simple to use. Enter the name of the City, State, Country, or Continent and click on the search button, it will provide you with the following: 
